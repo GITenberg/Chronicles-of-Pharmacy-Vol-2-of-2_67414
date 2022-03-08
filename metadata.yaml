@@ -1,0 +1,36 @@
+_repo: Chronicles-of-Pharmacy-Vol-2-of-2_67414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wootton, A. C.
+    deathdate: 1910
+    gutenberg_agent_id: '53534'
+    url: http://www.gutenberg.org/2009/agents/53534
+  editor:
+    agent_name: MacEwan, Peter
+    birthdate: 1856
+    deathdate: 1917
+    gutenberg_agent_id: '53531'
+    url: http://www.gutenberg.org/2009/agents/53531
+description: ''
+gutenberg_issued: '2022-02-16'
+identifiers:
+  gutenberg: '67414'
+language: en
+pgterms:marc904: https://archive.org/details/chroniclesofphar02woot
+pgterms:marc905: 20200314161516wootton
+pgterms:marc906: '1910'
+pgterms:marc907: UK
+production_note: Karin Spence, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: UK :Macmillan and co., limited,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pharmacy -- History'
+- !lcc 'RS'
+- GITenberg
+title: Chronicles of Pharmacy, Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/67414
