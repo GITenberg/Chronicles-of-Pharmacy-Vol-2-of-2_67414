@@ -1,5 +1,8 @@
 _repo: Chronicles-of-Pharmacy-Vol-2-of-2_67414
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67414-h/images/cover.jpg
 creator:
   author:
     agent_name: Wootton, A. C.
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '53531'
     url: http://www.gutenberg.org/2009/agents/53531
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67414#Chronicles-of-Pharmacy-Vol-2-of-2
 gutenberg_issued: '2022-02-16'
 identifiers:
   gutenberg: '67414'
